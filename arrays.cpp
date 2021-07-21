@@ -118,9 +118,9 @@ void evensArray(int arr[], int asize)
 
         if (i == asize-1)
         {
-            std::cout<<"end"<<std::endl;
         }
     }
+            std::cout<<"end"<<std::endl;
 }
 // Pre-Condition: takes in an integer array and its size.
 // Post-Condition: prints all the even numbers in the array.
@@ -154,9 +154,9 @@ void primesArray(int arr[], int asize)
         }
         if (i == asize-1)
         {
-            std::cout<<"end"<<std::endl;
         }
     }
+            std::cout<<"end"<<std::endl;
 }
 // Pre-Condition: takes in an integer array and its size
 // Post-Condition: prints all the prime numbers in the array.

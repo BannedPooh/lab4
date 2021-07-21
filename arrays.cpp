@@ -189,7 +189,7 @@ void AllSearches(int array[], int array_size)
             std::cout<<"Found at index: "<<pos<<std::endl;
         }
         else{
-            std::cout<<"Not found!"<<std::endl;
+            std::cout<<"Not Found!"<<std::endl;
         }
     }
 }
